@@ -4,6 +4,7 @@
 #### 01.Link the local and github using the git command
 
 git config --global user.name "rashmiKumari03"
+
 git config --global user.email "r***15*9*@gmail.com"
 
 #### 02.Initialise the empty repository using GUI or coomand
