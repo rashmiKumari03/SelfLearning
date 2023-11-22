@@ -19,4 +19,4 @@ git add .
 #### For Adding the .gitignore file and LICENSE we have to got to Add file  option from github itself.
 #### Add File-->create new file--->write .gitignore--->automatically choose template--->Python--->commit 
 #### Add File-->create new file-->write LICENSE-->choose template--->MIT or any you want--->rightside review-->commit
-#### Once both done come to local and pull the chnages using gui (source control) and on click we can see get all the chnages done in local.
+#### Once both done come to local and pull the chnages using gui (source control) and on click we can see get all the chnages done in ###local.
